@@ -75,6 +75,7 @@ Rebecca Pinheiro | Developer| [https://www.linkedin.com/in/rebecca-pinheiro/](ht
 Ricardo Rauber | Software Architech| [https://www.linkedin.com/in/ricardo-rauber-csm-csd-69051a14/](https://www.linkedin.com/in/ricardo-rauber-csm-csd-69051a14/)
 Rico Monteiro | UI/UX | [https://www.linkedin.com/in/ricomonteiro/](https://www.linkedin.com/in/ricomonteiro/)
 Rodrigo Brandão Carneiro | Security | [https://www.linkedin.com/in/rbrandao/](https://www.linkedin.com/in/rbrandao/)
+Rômulo Rocha | Software Engineer | [https://www.linkedin.com/in/romulorochabr/](https://www.linkedin.com/in/romulorochabr/)
 Rovian Voelz Veronez | Developer | [https://www.linkedin.com/in/rovianvz/](https://www.linkedin.com/in/rovianvz/)
 Samir Itani | Support Analyst | [https://www.linkedin.com/in/sitani/](https://www.linkedin.com/in/sitani/)
 Sandra Rossi | SAP | [https://www.linkedin.com/in/sandra-rossi-2716571b/](https://www.linkedin.com/in/sandra-rossi-2716571b/)
